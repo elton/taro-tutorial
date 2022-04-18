@@ -1,6 +1,8 @@
-const {
-  TaroWeappTailwindcssWebpackPluginV4,
-} = require('weapp-tailwindcss-webpack-plugin');
+// const {
+//   TaroWeappTailwindcssWebpackPluginV4,
+// } = require('weapp-tailwindcss-webpack-plugin');
+
+import { TaroWeappTailwindcssWebpackPluginV4 } from 'weapp-tailwindcss-webpack-plugin';
 
 const config = {
   projectName: 'taro-tutorial',
