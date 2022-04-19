@@ -15,7 +15,7 @@ const config = {
   },
   sourceRoot: 'src',
   outputRoot: 'dist',
-  plugins: [],
+  plugins: ['tarojs-router-next-plugin'],
   defineConstants: {},
   copy: {
     patterns: [],
